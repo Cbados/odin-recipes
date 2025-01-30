@@ -1,0 +1,29 @@
+body{
+    font-family: lucida, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: rgb(248, 239, 239);
+    margin: 50px;
+}
+
+a{
+    background-color: green;
+    color: white;
+    border-color: black;
+}
+
+.title{
+    background-color: azure;
+    text-align: center;
+    font-size: 40px;
+    color: tomato;
+}
+
+.description{
+    background-color:ghostwhite;
+
+
+}
+
+#atras{
+    font-size: 20px;
+    background-color: red;
+}
