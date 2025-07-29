@@ -1,0 +1,35 @@
+*{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.container{
+    padding: 45px 24px;
+}
+h1{
+    color: #7e082b;
+}
+.recipes{
+    padding: 24px;
+    background-color: gainsboro;
+    width: 300px;
+}
+
+li a{
+    color: #636262;
+}
+
+.ingredients-content{
+    margin: 8px;
+    width: 300px;
+    padding: 24px;
+    background-color: gainsboro;
+}
+
+.ingredients-content li{
+        color: #636262;
+}
+
+.steps-content{
+    margin: 8px;
+    padding: 24px;
+}
